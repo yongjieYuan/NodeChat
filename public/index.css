@@ -1,0 +1,15 @@
+body {
+  background-color: skyblue;
+}
+
+.container {
+  background-color: #fff;
+}
+
+.chat-window {
+  height: 600px;
+}
+
+p.font-italic {
+  color: #ccc;
+}
